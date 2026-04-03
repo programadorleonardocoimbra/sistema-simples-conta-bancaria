@@ -1,4 +1,5 @@
-# 💰 Sistema de Conta Bancária em Java
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d8d9eed7-b54a-41e9-98e3-b2cadf112939" />
 
 ### 📌 *Sobre o Projeto*
 
