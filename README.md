@@ -36,4 +36,4 @@ Desenvolvido por Leonardo Coimbra de Paiva
 
 🔗 Conecte-se comigo no LinkedIn
 📧 Contato profissional disponível mediante solicitação
-
+--
